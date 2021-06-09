@@ -1,4 +1,4 @@
 # Junio 2021
-# Snappy Project
+# Project Snappy
 
-print("Hello World!!")
+print("Hello World")
